@@ -1,2 +1,1 @@
-# Retailsy
-this is project
+
